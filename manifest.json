@@ -1,0 +1,21 @@
+{
+  "name": "Genius Fitrah — Raising a Genius, Guided by Faith",
+  "short_name": "Genius Fitrah",
+  "description": "A complete child development PWA for Muslim families covering the 3-6 foundation stage, rooted in faith.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FEFCF8",
+  "theme_color": "#0D7377",
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
